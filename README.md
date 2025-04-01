@@ -1,5 +1,7 @@
 # 学微信小程序用的临时仓库
 
+[PJ568 的博客](https://blog.pj568.sbs)
+
 ## 视频
 
 <video width="320" height="240" controls>
