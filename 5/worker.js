@@ -669,7 +669,7 @@ async function handleRequest(request) {
 </head>
 <body>
     <h1>商家数据API服务</h1>
-    <p>访问 /data 获取商家数据</p>
+    <p>访问 <a href="/data">/data</a> 获取商家数据</p>
 </body>
 </html>`, {
             headers: {
