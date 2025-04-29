@@ -1,0 +1,11 @@
+name = "wxxcxsy-five"
+main = "worker.js"
+compatibility_date = "2024-05-01"
+
+[build]
+upload.format = "modules"
+upload.main = "./worker.js"
+
+[[routers]]
+rule = "/*"
+script = "worker"
