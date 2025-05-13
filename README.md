@@ -2,6 +2,10 @@
 
 [PJ568 的博客](https://blog.pj568.sbs)
 
+## 音频
+
+`https://pj568.sbs/wxxcx-learn/assets/音乐/`
+
 ## 视频
 
 <video width="320" height="240" controls>
