@@ -4,7 +4,38 @@
 
 ## 音频
 
-`https://pj568.sbs/wxxcx-learn/assets/音乐/`
+`./assets/音乐/1 - 副本.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/1 - 副本.mp3`
+
+`./assets/音乐/1.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/1.mp3`
+
+`./assets/音乐/2 - 副本.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/2 - 副本.mp3`
+
+`./assets/音乐/2.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/2.mp3`
+
+`./assets/音乐/3 - 副本.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/3 - 副本.mp3`
+
+`./assets/音乐/3.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/3.mp3`
+
+`./assets/音乐/4 - 副本.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/4 - 副本.mp3`
+
+`./assets/音乐/4.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/4.mp3`
+
+`./assets/音乐/钢铁洪流进行曲 - 纯音乐.mp3`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/钢铁洪流进行曲 - 纯音乐.mp3`
+
+`./assets/音乐/onestop.mid.lnk`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/onestop.mid.lnk`
+
+`./assets/音乐/oscillofun.flac`
+`https://pj568.sbs/wxxcx-learn/assets/音乐/oscillofun.flac`
 
 ## 视频
 
