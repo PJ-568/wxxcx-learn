@@ -1,0 +1,78 @@
+{
+	"labels": [
+		{
+			"id": 0,
+			"name": "学习",
+			"icon-url": "https://pj568.sbs/wxxcx-learn/期末大作业/icon-study.svg"
+		},
+		{
+			"id": 1,
+			"name": "生活",
+			"icon-url": "https://pj568.sbs/wxxcx-learn/期末大作业/icon-life.svg"
+		},
+		{
+			"id": 2,
+			"name": "音乐",
+			"icon-url": "https://pj568.sbs/wxxcx-learn/期末大作业/icon-music.svg"
+		},
+		{
+			"id": 3,
+			"name": "娱乐",
+			"icon-url": "https://pj568.sbs/wxxcx-learn/期末大作业/icon-entertainment.svg"
+		},
+		{
+			"id": 4,
+			"name": "集成电路",
+			"icon-url": "https://pj568.sbs/wxxcx-learn/期末大作业/icon-circuit.svg"
+		}
+	],
+	"assets": [
+		{
+			"id": 0,
+			"name": "哈姆的哈比比",
+			"label": [
+				1,
+				2,
+				3
+			],
+			"cover": "https://pj568.sbs/wxxcx-learn/期末大作业/Hamood_Habibi.jpg",
+			"author": "穆罕默德·加勒姆（Muhammad Ghalum）",
+			"content": "2007 年 3 月 4 日：用户 Tahloube S 在油管（Youtube）网站上传了一个阿拉伯语儿歌动画视频 Hamood Habibi ，“ Hamood Habibi ”意为“我心爱的人”。",
+			"url": "https://pj568.sbs/wxxcx-learn/期末大作业/Hamood_Habibi.mp4"
+		},
+		{
+			"id": 1,
+			"name": "成功的音响",
+			"label": [
+				0,
+				4
+			],
+			"cover": "https://pj568.sbs/wxxcx-learn/期末大作业/音响.jpg",
+			"author": "李佑天",
+			"content": "成功是音响的来源，音响是成功的核心。李佑天成功破解了音响的加密方式并从成功使音响播放自定义音频。",
+			"url": "https://pj568.sbs/wxxcx-learn/期末大作业/音响.mp4"
+		},
+		{
+			"id": 2,
+			"name": "年夜烟花",
+			"label": [
+				1
+			],
+			"cover": "https://pj568.sbs/wxxcx-learn/期末大作业/烟花.jpg",
+			"author": "李佑天",
+			"content": "李佑天的故乡噼里啪啦。这可能是一年中最热闹的时候了。",
+			"url": "https://pj568.sbs/wxxcx-learn/期末大作业/烟花.mp4"
+		},
+		{
+			"id": 3,
+			"name": "期末大作业",
+			"label": [
+				0
+			],
+			"cover": "https://pj568.sbs/wxxcx-learn/期末大作业/期末大作业.jpg",
+			"author": "李佑天",
+			"content": "缺少素材的李佑天录制了这个飞快填入信息的视频。",
+			"url": "https://pj568.sbs/wxxcx-learn/期末大作业/期末大作业.mp4"
+		}
+	]
+}
